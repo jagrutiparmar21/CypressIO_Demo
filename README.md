@@ -1,2 +1,2 @@
-# CypressIO_Demo
-Cypress for Begineer
+# Playwright_Demo
+Playwright for Begineer
